@@ -7,15 +7,6 @@ categories: general
 
 Welcome to my new blog! This is my first post.
 
-I'm excited to share my thoughts and experiences here. Stay tuned for more content!
-
 ## What to Expect
 
-In this blog, I'll be sharing:
-
-- Technical articles
-- Personal projects
-- Thoughts and ideas
-- And much more!
-
-Thanks for visiting!
+In this blog, I'll be sharing about random projects I do while in the military to kill time. Hope you find it entertaining!
