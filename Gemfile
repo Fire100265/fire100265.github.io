@@ -12,3 +12,8 @@ gem 'logger'
 gem 'base64'
 
 gem "webrick", "~> 1.9"
+
+# Add platform specification for Windows
+platform :windows do
+  gem 'wdm' # Windows Dependency Manager gem
+end
